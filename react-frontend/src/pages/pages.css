@@ -1,0 +1,6 @@
+.main-heading {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    line-height: calc(1em + 8px);
+}

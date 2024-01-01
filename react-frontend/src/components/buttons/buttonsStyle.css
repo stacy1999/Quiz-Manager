@@ -1,0 +1,54 @@
+.button-primary {
+    background-color: #ee6c4d;
+    border: none;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 2px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.button-primary:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+.button-primary:disabled {
+    background-color: grey;
+    box-shadow: none;
+}
+
+.button-secondary {
+    text-decoration: none;
+    text-align: center;
+    border: 2px solid transparent;
+    color: black;
+    font: inherit;
+    background-color: white;
+    height: 2em;
+    margin: 20px;
+    padding: 15px;
+    align-items: center;
+}
+
+.button-tertiary {
+    text-decoration: none;
+    text-align: center;
+    border: 2px solid transparent;
+    color: black;
+    font: inherit;
+    background-color: white;
+    height: 1em;
+}
+
+.buttons-group {
+    float: right;
+    /*display: inline-flex;*/
+    /*align-items: center;*/
+    margin-right: 30px;
+    /*padding: 15px;*/
+}
+

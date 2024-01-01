@@ -1,0 +1,36 @@
+.main-container {
+    text-align: center;
+    /*min-height: 100vh;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(20px + 2vmin);
+    color: black;
+    margin-top: 200px;
+}
+
+.main-card-container {
+    background-color: whitesmoke;
+    height: 550px;
+    width: 900px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 15px;
+    font-size: x-large;
+}
+
+.card-questions {
+    /*font-size: x-large;*/
+    /*float: right;*/
+}
+
+.text-input {
+    font-size: x-large;
+}
+
+
