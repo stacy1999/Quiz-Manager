@@ -1,4 +1,4 @@
-# Anastasia-Polinesi-SP
+# Quiz Manager
 This is an application I have built for a company to manage quizzes, their questions and answers.
 It contains a server-side application that handles endpoints and HTTP requests and a client-side application for the user to interact with.
 
